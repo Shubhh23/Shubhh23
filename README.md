@@ -370,9 +370,9 @@ Conceptualized and led the first official farewell event for the graduating batc
 <br/>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shubhh23/Shubhh23/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/Shubhh23/Shubhh23/output/dist/github-snake-dark.svg" width="95%"/>
 
-<sub>Activates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> Action is added to this repo — see setup notes below.</sub>
+<sub>Auto-updates daily via the Platane/snk GitHub Action in this repo.</sub>
 
 </div>
 </details>
