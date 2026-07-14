@@ -1,10 +1,16 @@
+**Data Analyst · Aspiring AI / ML Engineer · IT @ UIET, Panjab University**
+
+<a href="https://github.com/Shubhh23"><img src="https://img.shields.io/badge/▲_Shubhh23-000000?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubhchak8881@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:2563EB&height=260&section=header&text=SHUBH%20CHAK&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
-
-<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+the+Chandigarh+Smart+City+Digital+Twin;Open+to+Data+%2F+AI+Internships+%E2%80%94+2027" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Building+the+Chandigarh+Smart+City+Digital+Twin;Open+to+Data+%2F+AI+Internships+%E2%80%94+2027" alt="typing"/>
 
 <br/>
 
@@ -12,14 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shubhh23&style=for-the-badge&color=2563EB&labelColor=020617&label=PROFILE+VIEWS"/>
 <a href="https://github.com/Shubhh23?tab=followers"><img src="https://img.shields.io/github/followers/Shubhh23?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS"/></a>
 <a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=REPOS&query=public_repos&url=https://api.github.com/users/Shubhh23"/></a>
-
-<br/><br/>
-
-<a href="mailto:shubhchak8881@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Shubhh23"><img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
