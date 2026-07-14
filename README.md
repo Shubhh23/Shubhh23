@@ -1,3 +1,15 @@
+<div align="center">
+
+<pre>
+ ████ █   █ █   █ ████  █   █      ████ █   █  ███  █   █ 
+█     █   █ █   █ █   █ █   █     █     █   █ █   █ █  █  
+█     █   █ █   █ █   █ █   █     █     █   █ █   █ █ █   
+ ███  █████ █   █ ████  █████     █     █████ █████ ██    
+    █ █   █ █   █ █   █ █   █     █     █   █ █   █ █ █   
+    █ █   █ █   █ █   █ █   █     █     █   █ █   █ █  █  
+████  █   █  ███  ████  █   █      ████ █   █ █   █ █   █ 
+</pre>
+
 **Data Analyst · Aspiring AI / ML Engineer · IT @ UIET, Panjab University**
 
 <a href="https://github.com/Shubhh23"><img src="https://img.shields.io/badge/▲_Shubhh23-000000?style=for-the-badge&logoColor=white"/></a>
@@ -17,7 +29,7 @@
 <img src="https://img.shields.io/badge/STATUS-Open_to_Work-22C55E?style=for-the-badge&labelColor=020617"/>
 <img src="https://komarev.com/ghpvc/?username=Shubhh23&style=for-the-badge&color=2563EB&labelColor=020617&label=PROFILE+VIEWS"/>
 <a href="https://github.com/Shubhh23?tab=followers"><img src="https://img.shields.io/github/followers/Shubhh23?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS"/></a>
-<a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=REPOS&query=public_repos&url=https://api.github.com/users/Shubhh23"/></a>
+<a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FShubhh23"/></a>
 
 </div>
 
@@ -43,7 +55,6 @@ I'm an **Information Technology** undergraduate at **UIET, Panjab University** (
 
 Beyond the terminal, I lead — I've organized a 500+ person alumni reunion from zero, run cross-functional student teams, and managed institute-wide events end-to-end. That same ownership mindset is what I bring to every dataset and every deadline.
 
-```python
 class ShubhChak:
     def __init__(self):
         self.role      = "Data Analyst → ML/AI Engineer"
@@ -58,7 +69,6 @@ class ShubhChak:
 
 me = ShubhChak()
 print(me.connect())
-```
 
 </td>
 <td width="42%" valign="top">
@@ -191,7 +201,7 @@ Uncovered purchasing trends, customer behavior patterns, and business insights t
 ### 🗄️ SQL Data Analysis Project
 **Query-Driven Business Insights**
 
-Built a full SQL analytics workflow with SQLite + Jupyter — filtering, aggregation, and querying using `COUNT()`, `AVG()`, `GROUP BY`, `ORDER BY` to surface business insights.
+Built a full SQL analytics workflow with SQLite + Jupyter — filtering, aggregation, and querying using COUNT(), AVG(), GROUP BY, ORDER BY to surface business insights.
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
