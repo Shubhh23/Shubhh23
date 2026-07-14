@@ -1,127 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=SHUBH%20CHAK&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:2563EB&height=260&section=header&text=SHUBH%20CHAK&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
+
+<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+the+Chandigarh+Smart+City+Digital+Twin;Open+to+Data+%2F+AI+Internships+%E2%80%94+2027" />
+</a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Scientist+%7C+ML+Engineer;Turning+Raw+Data+Into+Real+Decisions;Building+with+Python+%2C+SQL+%26+Power+BI;Open+to+Internships+%26+Full-Time+Roles+2027" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-Open_to_Work-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=Shubhh23&style=for-the-badge&color=2563EB&labelColor=020617&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Shubhh23?tab=followers"><img src="https://img.shields.io/github/followers/Shubhh23?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS"/></a>
+<a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=020617&color=2563EB&logo=github&logoColor=white&label=REPOS&query=public_repos&url=https://api.github.com/users/Shubhh23"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-blueviolet?style=for-the-badge" alt="views-label"/> <img src="https://komarev.com/ghpvc/?username=Shubhh23&style=for-the-badge&color=2563EB&label=" alt="profile views"/>
-<a href="https://github.com/Shubhh23?tab=followers"><img src="https://img.shields.io/github/followers/Shubhh23?style=for-the-badge&color=0F172A&labelColor=2563EB&logo=github&logoColor=white" alt="followers"/></a>
-<a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0F172A&labelColor=2563EB&logo=github&logoColor=white&label=Repos&query=public_repos&url=https://api.github.com/users/Shubhh23" alt="repos"/></a>
+<a href="mailto:shubhchak8881@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubh-chak-b01a793b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Shubhh23"><img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=readdotcv&logoColor=white"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[About](#-about-me) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Projects](#-featured-projects) · [Experience](#-experience) · [Leadership](#-leadership--impact) · [Certifications](#-certifications) · [GitHub Analytics](#-github-analytics) · [Roadmap](#-2026-roadmap) · [Connect](#-lets-connect)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+## 👤 About Me
 
-<h2 align="center">👤 About Me</h2>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-I'm an **Information Technology** undergraduate at **UIET, Panjab University** (Batch 2027), building a strong foundation in **Data Analytics, Machine Learning, and Artificial Intelligence**. I like turning messy, real-world data into insights that actually drive decisions — and I back that up by shipping projects, not just tutorials.
+I'm an **Information Technology** undergraduate at **UIET, Panjab University** (Class of 2027), obsessed with turning messy, real-world data into decisions that matter. I don't just complete tutorials — I ship end-to-end projects, from data cleaning pipelines to a full urban-analytics simulation platform.
 
-Currently deepening my expertise in **Machine Learning, Deep Learning, and Statistics** while contributing to campus-scale initiatives as a student leader.
+Beyond the terminal, I lead — I've organized a 500+ person alumni reunion from zero, run cross-functional student teams, and managed institute-wide events end-to-end. That same ownership mindset is what I bring to every dataset and every deadline.
 
 ```python
 class ShubhChak:
     def __init__(self):
-        self.role       = "Aspiring Data Scientist / AI Engineer"
-        self.education  = "B.Tech IT, UIET Panjab University (2027)"
-        self.location   = "Chandigarh, India"
-        self.stack      = ["Python", "SQL", "Pandas", "Power BI"]
-        self.learning   = ["Machine Learning", "Deep Learning", "AI"]
-        self.mindset    = "Curious. Consistent. Data-driven."
+        self.role      = "Data Analyst → ML/AI Engineer"
+        self.education = "B.Tech IT, UIET Panjab University '27"
+        self.location  = "Chandigarh, India"
+        self.stack     = ["Python", "SQL", "Pandas", "Power BI"]
+        self.mastering = ["Machine Learning", "Deep Learning", "Statistics"]
+        self.principle = "Clean data beats clever models."
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's connect!")
+    def connect(self):
+        return "Always up for a good data conversation 🤝"
+
+me = ShubhChak()
+print(me.connect())
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-|  |  |
-|---|---|
-| 🎓 **Education** | B.Tech, Information Technology |
-| 🏫 **College** | UIET, Panjab University |
-| 📅 **Graduation** | 2027 |
-| 📍 **Location** | Chandigarh, India |
-| 💼 **Focus** | Data Analytics · ML · AI |
-| 📧 **Email** | shubhchak8881@gmail.com |
+<div align="center">
+
+|  🧩  |  Detail  |
+|:---:|---|
+| 🎓 | **B.Tech**, Information Technology |
+| 🏫 | UIET, Panjab University |
+| 📅 | Graduating **2027** |
+| 📍 | Chandigarh, India |
+| 💼 | Data Analytics · ML · AI |
+| ⚙️ | Ex-Intern, **Decode Labs** |
+| 📧 | shubhchak8881@gmail.com |
+
+</div>
+
+<div align="center">
+
+**⭐ Impact at a Glance**
+
+<img src="https://img.shields.io/badge/500%2B-Alumni%20United-2563EB?style=for-the-badge&labelColor=020617"/><br/>
+<img src="https://img.shields.io/badge/8%2B-Projects%20Shipped-2563EB?style=for-the-badge&labelColor=020617"/><br/>
+<img src="https://img.shields.io/badge/5%2B-Leadership%20Roles-2563EB?style=for-the-badge&labelColor=020617"/>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
 
 **Data Analytics & Visualization**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=py&theme=dark"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" />
 
-**Currently Learning**
+**Currently Mastering**
 
 <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Statistics-2563EB?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-0F172A?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-020617?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<div align="center">
 
-<h2 align="center">🚀 Featured Projects</h2>
+**🎯 Proficiency Snapshot**
 
-<table align="center" width="100%">
+| Skill | Level |
+|---|---|
+| Python | ![](https://progress-bar.xyz/85?title=&color=2563EB&width=250&suffix=%25) |
+| SQL | ![](https://progress-bar.xyz/80?title=&color=2563EB&width=250&suffix=%25) |
+| Data Analysis (Pandas/NumPy) | ![](https://progress-bar.xyz/85?title=&color=2563EB&width=250&suffix=%25) |
+| Power BI / Data Visualization | ![](https://progress-bar.xyz/75?title=&color=2563EB&width=250&suffix=%25) |
+| Machine Learning | ![](https://progress-bar.xyz/55?title=&color=3B82F6&width=250&suffix=%25) |
+| Deep Learning | ![](https://progress-bar.xyz/35?title=&color=3B82F6&width=250&suffix=%25) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🏙️ Chandigarh Smart City Digital Twin
-**Urban Analytics & Optimization Platform**
+**Urban Analytics & Optimization Platform** · 🌟 Flagship Project
 
-Simulates and optimizes urban infrastructure — traffic congestion, parking occupancy, flood risk, EV charging demand, WiFi coverage, and emergency response — using matrix-based simulations and optimization algorithms.
+Simulates and optimizes urban infrastructure — traffic congestion, parking occupancy, flood risk, EV charging demand, WiFi coverage, and emergency response — using matrix-based simulations and optimization algorithms to power data-driven urban planning.
 
-`Python` `NumPy` `Matplotlib` `Jupyter Notebook`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
 
-📎 [View Repository](https://github.com/Shubhh23/Chandigarh-SmartCity-Digital-Twin)
+**[→ View Repository](https://github.com/Shubhh23/Chandigarh-SmartCity-Digital-Twin)**
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Cleaning on E-Commerce Dataset
-**Data Preprocessing Pipeline**
+### 🧹 Data Cleaning — E-Commerce Dataset
+**Production-Ready Preprocessing Pipeline**
 
-Cleaned a raw e-commerce dataset — removed duplicates, handled missing values, and standardized formats to produce an analysis-ready dataset.
+Cleaned a raw e-commerce dataset end-to-end — removed duplicates, handled missing values, and standardized formats to produce an analysis-ready dataset.
 
-`Python` `Pandas` `Excel` `Data Cleaning`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 
-📎 [View Repository](https://github.com/Shubhh23/Task-1-Shubh)
+**[→ View Repository](https://github.com/Shubhh23/Task-1-Shubh)**
 
 </td>
 </tr>
@@ -129,13 +179,13 @@ Cleaned a raw e-commerce dataset — removed duplicates, handled missing values,
 <td width="50%" valign="top">
 
 ### 🔍 Exploratory Data Analysis — E-Commerce
-**Customer Behavior & Trend Analysis**
+**Customer Behavior & Trend Discovery**
 
-Performed EDA to uncover trends, customer behavior patterns, and actionable business insights through statistical analysis and visualization.
+Uncovered purchasing trends, customer behavior patterns, and business insights through statistical analysis and rich visualizations.
 
-`Python` `Pandas` `Matplotlib` `EDA`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square"/>
 
-📎 [View Repository](https://github.com/Shubhh23/Task-2-Shubh)
+**[→ View Repository](https://github.com/Shubhh23/Task-2-Shubh)**
 
 </td>
 <td width="50%" valign="top">
@@ -143,11 +193,11 @@ Performed EDA to uncover trends, customer behavior patterns, and actionable busi
 ### 🗄️ SQL Data Analysis Project
 **Query-Driven Business Insights**
 
-Built a SQL-based analytics project with SQLite and Jupyter Notebook, using `COUNT()`, `AVG()`, `GROUP BY`, and `ORDER BY` for meaningful insights.
+Built a full SQL analytics workflow with SQLite + Jupyter — filtering, aggregation, and querying using `COUNT()`, `AVG()`, `GROUP BY`, `ORDER BY` to surface business insights.
 
-`SQL` `SQLite` `Jupyter Notebook`
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
-📎 [View Repository](https://github.com/Shubhh23/Task-3-Shubh)
+**[→ View Repository](https://github.com/Shubhh23/Task-3-Shubh)**
 
 </td>
 </tr>
@@ -155,25 +205,25 @@ Built a SQL-based analytics project with SQLite and Jupyter Notebook, using `COU
 <td width="50%" valign="top">
 
 ### 📈 Data Visualization — Customer Behavior
-**Business-Ready Dashboards**
+**Business-Ready Insight Dashboards**
 
-Visualized purchasing trends, product demand, and payment preferences to deliver clear, actionable business recommendations.
+Visualized product demand, payment preferences, and order patterns to deliver clear, decision-ready recommendations.
 
-`Python` `Matplotlib` `Dashboarding`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Dashboarding-2563EB?style=flat-square"/>
 
-📎 [View Repository](https://github.com/Shubhh23/Task-4-Shubh)
+**[→ View Repository](https://github.com/Shubhh23/Task-4-Shubh)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 Netflix Data Analysis
-**Content & Trend Analysis**
+**Content Catalog & Trend Analysis**
 
-Analyzed Netflix's content catalog to uncover genre trends, release patterns, and content distribution insights.
+Analyzed Netflix's catalog to uncover genre trends, release patterns, and content distribution insights across regions.
 
-`Python` `Pandas` `Matplotlib`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-📎 *Repository link coming soon*
+**→ Repository link coming soon**
 
 </td>
 </tr>
@@ -183,11 +233,11 @@ Analyzed Netflix's content catalog to uncover genre trends, release patterns, an
 ### 🏠 House Price Prediction
 **Regression-Based ML Model**
 
-Predictive model estimating house prices using regression techniques on structured housing data.
+Predicts house prices from structured housing data using regression techniques, with feature engineering to boost accuracy.
 
-`Python` `Scikit-learn` `Pandas`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-📎 *Repository link coming soon*
+**→ Repository link coming soon**
 
 </td>
 <td width="50%" valign="top">
@@ -195,11 +245,11 @@ Predictive model estimating house prices using regression techniques on structur
 ### 📉 Customer Churn Prediction
 **Classification & Retention Analytics**
 
-Built a churn prediction model to identify at-risk customers and support data-driven retention strategy.
+Built a churn classification model to flag at-risk customers and inform data-driven retention strategy.
 
-`Python` `Scikit-learn` `EDA`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-📎 *Repository link coming soon*
+**→ Repository link coming soon**
 
 </td>
 </tr>
@@ -207,153 +257,164 @@ Built a churn prediction model to identify at-risk customers and support data-dr
 
 <div align="center">
 
-**Also Explore:** 📊 Power BI Dashboard — Business KPI Visualization Suite
+**Also explore →** 📊 Power BI Dashboard: Business KPI Visualization Suite
+
+<a href="https://github.com/Shubhh23?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-020617?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">💼 Experience</h2>
+## 💼 Experience
 
-<table align="center" width="90%">
-<tr>
-<td>
+<table width="100%">
+<tr><td>
 
-**Data Analytics Intern** — Decode Labs · *May 2026 – Jun 2026*
+**🔹 Data Analytics Intern** — Decode Labs · *May 2026 – Jun 2026*
 
-Completed a Virtual Data Analytics Internship, gaining hands-on experience in data cleaning, EDA, visualization, dashboard creation, and project-based analytics using **Python, SQL, Excel, and Power BI**.
+Completed a Virtual Data Analytics Internship covering the full analytics lifecycle — data cleaning, EDA, visualization, and dashboard creation using **Python, SQL, Excel, and Power BI**.
 
-`EDA` `Business Analysis` `SQL` `Power BI` `Data Visualization` `Analytical Thinking`
+<img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Business_Analysis-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Power_BI-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Analytical_Thinking-2563EB?style=flat-square"/>
 
-</td>
-</tr>
+</td></tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">🏆 Leadership & Initiative</h2>
+## 🏆 Leadership & Impact
 
-<table align="center" width="90%">
-<tr>
-<td>
+<table width="100%">
+<tr><td>
 
 **Convenor — Alumni Affairs Cell**, UIET Panjab University
 Led a multidisciplinary student team in planning and executing institute-wide alumni and student engagement initiatives.
 
-**Founder — SANGAM** (UIET Alumni Meet)
-Founded and directed *SANGAM 2026*, bringing together 500+ alumni — one of the largest alumni gatherings in UIET's history. Owned end-to-end execution: outreach, budgeting, logistics, and sponsorships.
+**Founder — SANGAM** (UIET Alumni Meet 2026)
+Founded and directed SANGAM, bringing together **500+ alumni** — the largest alumni gathering in UIET's history. Owned outreach, budgeting, logistics, and sponsorships end-to-end.
 
 **Founder — KARWAAN** (UIET Farewell Initiative)
-Conceptualized and led the first official farewell event for the graduating batch, managing operations, stage management, and vendor coordination.
+Conceptualized and led the first official farewell event for the graduating batch — stage management, vendor coordination, and guest experience.
 
-**Logistics Head — Goonj 2025** · Received a Certificate of Appreciation for leadership and execution.
+**Logistics Head — Goonj 2025** · 🏅 Certificate of Appreciation for leadership and execution
 
-**USG, Media & Publicity — UIETMUN 2025** · Led branding and outreach campaigns that boosted event visibility.
+**USG, Media & Publicity — UIETMUN 2025** · Led branding and outreach campaigns that boosted event visibility
 
-**Senior Member — UIET Sports Committee** · **OC Member — Software Freedom Day, PU**
+**Senior Member — UIET Sports Committee**   ·   **OC Member — Software Freedom Day, PU**
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <div align="center">
 
-`Leadership` `Event Management` `Team Coordination` `Stakeholder Management` `Project Planning`
+<img src="https://img.shields.io/badge/Leadership-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Event_Management-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Team_Coordination-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Stakeholder_Management-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Project_Planning-2563EB?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">📜 Certifications</h2>
+## 📜 Certifications
 
 <div align="center">
 
 [![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-Data_Analytics_Essentials-2563EB?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/shubh-chak-b01a793b0)
 
-`Excel` `SQL` `SQLite` `Tableau` `Data Visualization` `Data Interpretation`
+<img src="https://img.shields.io/badge/Excel-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Tableau-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Interpretation-2563EB?style=flat-square"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubhh23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhh23&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubhh23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhh23&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhh23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhh23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="95%"/>
 
 </div>
 
 <details>
-<summary align="center"><b>🏅 GitHub Trophies</b></summary>
+<summary align="center"><b>📇 Extended Profile Summary</b></summary>
+<br/>
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhh23&theme=darkhub&no-frame=true&margin-w=8&column=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhh23&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhh23&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubhh23&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+</details>
+
+<details>
+<summary align="center"><b>🏅 GitHub Trophies</b></summary>
+<br/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhh23&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
 
 </div>
 </details>
 
 <details>
 <summary align="center"><b>🐍 Contribution Snake</b></summary>
+<br/>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shubhh23/Shubhh23/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Shubhh23/Shubhh23/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-<sub>*Snake animation generates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is added to this repo.*</sub>
+<sub>Activates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> Action is added to this repo — see setup notes below.</sub>
 
 </div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">🎧 Now Playing & ⏱️ Coding Time</h2>
-
-<div align="center">
-
-<!-- Spotify Now Playing — connect via https://github.com/kittinan/spotify-github-profile -->
-<img src="https://novatorem-shubhh23.vercel.app/api/spotify" width="45%" alt="Spotify placeholder — connect account to activate" />
-
-<!-- WakaTime Weekly Stats — add WAKATIME_API_KEY secret to activate -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubhh23&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" width="45%" alt="WakaTime placeholder — connect account to activate" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-<h2 align="center">💬 Quote of the Day</h2>
+## 🎧 Now Playing & ⏱️ Coding Time
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://novatorem-shubhh23.vercel.app/api/spotify" width="45%" alt="Spotify — connect account to activate"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubhh23&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="45%" alt="WakaTime — connect account to activate"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<div align="center">
 
-<h2 align="center">🎯 Fun Facts & Current Goals</h2>
+![Quote of the day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<table align="center" width="90%">
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## ⚡ Fun Facts & 🎯 Current Goals
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **⚡ Fun Facts**
-- Led a 500+ member alumni event from scratch
-- Believes clean data beats fancy models
-- Learning something new in ML every single week
+- Rallied 500+ alumni for a single reunion — solo-founded
+- Believes clean data beats clever models, every time
+- Ships something new in ML almost every week
+- Runs on chai ☕ and changelogs
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 Current Goals**
 - Master Machine Learning & Deep Learning fundamentals
-- Build 3+ end-to-end ML deployment projects
+- Ship 3+ end-to-end ML deployment projects
+- Contribute to an open-source data/ML repository
 - Land a Data Analyst / ML Engineer internship
 
 </td>
@@ -364,37 +425,35 @@ Conceptualized and led the first official farewell event for the graduating batc
 
 ### 🗺️ 2026 Roadmap
 
-`Q1` Strengthen Statistics & ML Foundations → `Q2` Deep Learning + Model Deployment → `Q3` End-to-End AI Projects → `Q4` Internship / Full-Time Interviews
+| Q1 | Q2 | Q3 | Q4 |
+|:---:|:---:|:---:|:---:|
+| Statistics & ML Foundations | Deep Learning + Model Deployment | End-to-End AI Projects | Internship & Full-Time Interviews |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-<h2 align="center">📫 Connect With Me</h2>
+## 🤝 Let's Connect
 
 <div align="center">
+
+I'm actively exploring **Data Analyst, Data Scientist, and ML/AI Engineer** roles for internships and full-time opportunities from 2027 onward. If you're building something data-driven, let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-chak-b01a793b0)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhchak8881@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhh23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhh23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-<h2 align="center">☕ Support Me</h2>
-
-<div align="center">
+<br/>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
 
-*If you find my work useful, a ⭐ on my repositories means a lot.*
+*If any of this was useful, a ⭐ on my repositories goes a long way.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:020617&height=160&section=footer"/>
 
 <div align="center">
 
